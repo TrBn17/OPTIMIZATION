@@ -1,0 +1,57 @@
+
+Log started (V22.1.1.0) Wed Dec 25 18:53:28 2024
+
+
+Log started (V22.1.1.0) Wed Dec 25 20:19:38 2024
+
+
+Log started (V22.1.1.0) Wed Dec 25 23:43:26 2024
+
+CPLEX Error  1009: No problem exists.
+No file read.
+No problem exists.
+No file read.
+
+Log started (V22.1.1.0) Thu Dec 26 22:44:17 2024
+
+No problem exists.
+No problem exists.
+No problem exists.
+No problem exists.
+No problem exists.
+No problem exists.
+No problem read.
+No problem exists.
+No problem read.
+No problem read.
+No problem read.
+No problem read.
+Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d
+Tried aggregator 1 time.
+LP Presolve eliminated 9 rows and 6 columns.
+All rows and columns eliminated.
+Presolve time = 0.00 sec. (0.00 ticks)
+
+Dual simplex - Optimal:  Objective =  2.2125000000e+04
+Solution time =    0.01 sec.  Iterations = 0 (0)
+Deterministic time = 0.01 ticks  (0.38 ticks/sec)
+
+
+Variable Name                     Solution Value
+x_Internal_Medicine_Monday             20.000000
+y_Internal_Medicine_Monday              5.000000
+x_Surgery_Monday                       15.000000
+y_Surgery_Monday                        5.000000
+x_Pediatrics_Monday                    20.000000
+y_Pediatrics_Monday                     5.000000
+
+Solution written to file 'solution_file.sol'.
+
+Log started (V22.1.1.0) Thu Dec 26 22:29:51 2024
+
+No problem exists.
+CPLEX Error  1009: No problem exists.
+No file read.
+No problem exists.
+No problem exists.
+No problem exists.
